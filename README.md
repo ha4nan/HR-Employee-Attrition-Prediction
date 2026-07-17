@@ -76,11 +76,9 @@ It contains information about employees, including:
 ```text
 HR-Employee-Attrition-Prediction/
 │── app.py
-│── HR_Attrition_Prediction.ipynb
 │── model.pkl
 │── requirements.txt
 │── README.md
-└── WA_Fn-UseC_-HR-Employee-Attrition.csv
 ```
 
 ---
